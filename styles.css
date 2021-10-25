@@ -1,0 +1,15 @@
+body {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: monospace;
+}
+.output > div {
+    background: #abefff;
+    color: #2626ad;
+    padding: 10px;
+    margin: 5px;
+}
+.output > div + div {
+    background: #c6f3fe;
+}
